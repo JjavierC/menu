@@ -2,7 +2,7 @@ var splide = new Splide('.splide', {
     type: 'fade',
     rewind: true,
     autoplay: true,
-    interval: 3500,
+    interval: 1500,
     pauseOnHover: true,
     arrows: false,
     pagination: false,
